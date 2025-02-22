@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GTA Game Franchise</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #696969;
+        }
+        header {
+            background-color: #881788;
+            color: #5c5c5c;
+            padding: 1rem;
+            text-align: center;
+        }
+        main {
+            padding: 1rem;
+        }
+        footer {
+            background-color: #680b68;
+            color: #525151;
+            text-align: center;
+            padding: 1rem;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        .game-list {
+            list-style-type: none;
+            padding: 0;
+        }
+        .game-list li {
+            background-color: #6e226b;
+            margin: 0.5rem 0;
+            padding: 1rem;
+            border: 1px solid #000000;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Grand Theft Auto (GTA) Game Franchise</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Introduction</h2>
+            <p>The Grand Theft Auto (GTA) series is a popular video game franchise created by Rockstar Games. It is known for its open-world gameplay, engaging storylines, and immersive environments.</p>
+        </section>
+        <section>
+            <h2>Games in the Series</h2>
+            <ul class="game-list">
+                <li>Grand Theft Auto</li>
+                <li>Grand Theft Auto II</li>
+                <li>Grand Theft Auto III</li>
+                <li>Grand Theft Auto: Vice City</li>
+                <li>Grand Theft Auto: San Andreas</li>
+                <li>Grand Theft Auto IV</li>
+                <li>Grand Theft Auto V</li>
+                <li>Grand Theft Auto VI</li> 
+            </ul>
+        </section>
+        <section>
+            <h2>Latest News</h2>
+            <p>Stay tuned for the latest news and updates about the GTA franchise.</p>
+        </section>
+        <section>
+            <h2>Media</h2>
+            <p>Check out some screenshots and videos from the GTA games.</p>
+            <!-- Add media content here -->
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 GTA Fan Website</p>
+    </footer>
+</body>
+</html>
